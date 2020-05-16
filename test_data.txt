@@ -1,0 +1,149 @@
+Cavan's fastest time
+2019-03-27 23:01:19
+Level 1: 0 attempt(s)
+Level 2: 0 attempt(s)
+Level 3: 0 attempt(s)
+Completion Time: 16 seconds
+----------------------------------
+
+2019-03-29 20:39:39
+Level 1: 0 attempt(s)
+Level 2: 0 attempt(s)
+Level 3: 1 attempt(s)
+Completion Time: -1 seconds
+----------------------------------
+
+2019-04-02 23:45:57
+Level 1: 0 attempt(s)
+Level 2: 2 attempt(s)
+Level 3: 3 attempt(s)
+Completion Time: -1 seconds
+----------------------------------
+
+2019-04-05 10:34:28
+Level 1: 0 attempt(s)
+Level 2: 0 attempt(s)
+Level 3: 0 attempt(s)
+Completion Time: 17 seconds
+----------------------------------
+
+2019-04-05 10:35:33
+Level 1: 1 attempt(s)
+Level 2: 1 attempt(s)
+Level 3: 1 attempt(s)
+Completion Time: -1 seconds
+----------------------------------
+
+2019-04-10 10:36:24
+Level 1: 1 attempt(s)
+Level 2: 1 attempt(s)
+Level 3: 1 attempt(s)
+Completion Time: 8 seconds
+----------------------------------
+
+2019-04-10 10:38:55
+Level 1: 1 attempt(s)
+Level 2: 1 attempt(s)
+Level 3: 1 attempt(s)
+Level 4: 6 attempt(s)
+Completion Time: -1 seconds
+----------------------------------
+
+2019-04-10 10:39:25
+Level 1: 1 attempt(s)
+Level 2: 1 attempt(s)
+Level 3: 1 attempt(s)
+Level 4: 3 attempt(s)
+Completion Time: -1 seconds
+----------------------------------
+
+2019-04-10 10:39:55
+Level 1: 1 attempt(s)
+Level 2: 1 attempt(s)
+Level 3: 1 attempt(s)
+Level 4: 4 attempt(s)
+Completion Time: 21 seconds
+----------------------------------
+
+2019-04-10 10:42:03
+Level 1: 1 attempt(s)
+Level 2: 1 attempt(s)
+Level 3: 1 attempt(s)
+Level 4: 2 attempt(s)
+Completion Time: 14 seconds
+----------------------------------
+
+2019-04-11 10:42:38
+Level 1: 1 attempt(s)
+Level 2: 1 attempt(s)
+Level 3: 1 attempt(s)
+Level 4: 2 attempt(s)
+Level 5: 3 attempt(s)
+Completion Time: -1 seconds
+----------------------------------
+
+2019-04-15 12:56:24
+Level 1: 1 attempt(s)
+Level 2: 1 attempt(s)
+Level 3: 1 attempt(s)
+Level 4: 1 attempt(s)
+Level 5: 1 attempt(s)
+Level 6: 1 attempt(s)
+Level 7: 1 attempt(s)
+Completion Time: -1 seconds
+----------------------------------
+
+2019-04-20 10:57:24
+Level 1: 1 attempt(s)
+Level 2: 1 attempt(s)
+Level 3: 1 attempt(s)
+Level 4: 1 attempt(s)
+Level 5: 1 attempt(s)
+Level 6: 1 attempt(s)
+Level 7: 1 attempt(s)
+Completion Time: 8 seconds
+----------------------------------
+
+2019-04-20 10:57:42
+Level 1: 1 attempt(s)
+Level 2: 1 attempt(s)
+Level 3: 1 attempt(s)
+Level 4: 1 attempt(s)
+Level 5: 1 attempt(s)
+Level 6: 1 attempt(s)
+Level 7: 1 attempt(s)
+Completion Time: 7 seconds
+----------------------------------
+
+2019-04-30 11:26:19
+Level 1: 1 attempt(s)
+Level 2: 1 attempt(s)
+Level 3: 1 attempt(s)
+Level 4: 1 attempt(s)
+Level 5: 1 attempt(s)
+Level 6: 1 attempt(s)
+Level 7: 1 attempt(s)
+Completion Time: 13 seconds
+----------------------------------
+2019-04-30 11:57:07
+Level 1: 1 attempt(s)
+Level 2: 2 attempt(s)
+Level 3: 1 attempt(s)
+Level 4: 1 attempt(s)
+Level 5: 1 attempt(s)
+Level 6: 3 attempt(s)
+Level 7: 1 attempt(s)
+Completion Time: -1 seconds
+----------------------------------
+
+2019-04-30 12:07:08
+Level 1: 1 attempt(s)
+Level 2: 2 attempt(s)
+Level 3: 2 attempt(s)
+Level 4: 1 attempt(s)
+Level 5: 3 attempt(s)
+Level 6: 2 attempt(s)
+Level 7: 1 attempt(s)
+Completion Time: 112 seconds
+----------------------------------
+
